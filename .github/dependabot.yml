@@ -6,6 +6,6 @@ updates:
     interval: daily
     time: "20:00"
   open-pull-requests-limit: 40
-  target-branch: develop
+  target-branch: master
   labels:
   - dependencies
