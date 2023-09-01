@@ -3,7 +3,7 @@
    <LangVersion>preview</LangVersion>
     <Authors>Codelisk</Authors>
     <Configurations>Debug;Release</Configurations>
-    <Description>CodeGen</Description>
+    <Description>Orderlyze.BuildTools</Description>
     <GeneratorTargetFramework>netstandard2.0</GeneratorTargetFramework>
     <Product>$(AssemblyName) ($(TargetFramework))</Product>
     <RepositoryType>git</RepositoryType>
