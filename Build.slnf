@@ -2,7 +2,7 @@
 	"solution": {
 		"path": "Orderlyze.BuildTools.sln",
 		"projects": [
-		"Orderlyze.BuildTools.csproj"
+		"src\\Orderlyze.BuildTools\\Orderlyze.BuildTools.csproj"
 		]
 	}
 }
