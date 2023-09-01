@@ -3,6 +3,7 @@
   <metadata>
     <id>Orderlyze.BuildTools</id>
     <authors>Orderlyze.BuildTools</authors>
+	<description>Orderlyze.BuildTools</description>
     <repository type="git" />
   </metadata>
   <files>
