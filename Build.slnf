@@ -1,0 +1,8 @@
+{
+	"solution": {
+		"path": "Orderlyze.BuildTools.sln",
+		"projects": [
+		"Orderlyze.BuildTools.csproj"
+		]
+	}
+}
