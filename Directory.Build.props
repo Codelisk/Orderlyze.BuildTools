@@ -1,5 +1,6 @@
 <Project>
   <PropertyGroup>
+   <LangVersion>preview</LangVersion>
     <Authors>Codelisk</Authors>
     <Configurations>Debug;Release</Configurations>
     <Description>CodeGen</Description>
