@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <PropertyGroup Label="Common">
-    <CodeliskVersion>2.13.89</CodeliskVersion>
+    <CodeliskVersion>2.13.90</CodeliskVersion>
     <MicrosoftAspNetCore>7.0.10</MicrosoftAspNetCore>
     <MicrosoftEntityFrameworkCore>7.0.10</MicrosoftEntityFrameworkCore>
     <MicrosoftExtensionsVersion>7.0.0</MicrosoftExtensionsVersion>
