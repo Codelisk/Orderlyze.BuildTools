@@ -53,7 +53,7 @@
     <PackageReference Update="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="$(MicrosoftAspNetCore)" />
     <PackageReference Update="Microsoft.AspNetCore.SignalR.Client" Version="6.0.10" />
     <PackageReference Update="Microsoft.Azure.SignalR" Version="1.21.4" />
-    <PackageReference PrivateAssets="all" Update="Microsoft.CodeAnalysis.NetAnalyzers" Version="7.0.3" PrivateAssets="all"/>
+    <PackageReference PrivateAssets="all" Update="Microsoft.CodeAnalysis.NetAnalyzers" Version="7.0.3" />
     <PackageReference Update="Microsoft.EntityFrameworkCore.Abstractions" Version="$(MicrosoftEntityFrameworkCore)" />
     <PackageReference Update="Microsoft.EntityFrameworkCore.Design" Version="$(MicrosoftEntityFrameworkCore)"/>
     <PackageReference Update="Microsoft.EntityFrameworkCore.InMemory" Version="$(MicrosoftEntityFrameworkCore)" />
