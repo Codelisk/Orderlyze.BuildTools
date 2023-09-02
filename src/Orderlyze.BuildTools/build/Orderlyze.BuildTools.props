@@ -3,6 +3,11 @@
     <TargetFramework>net7.0</TargetFramework>
     <LangVersion>preview</LangVersion>
     <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Custom Variables">
+    <TargetFrameworkForApp>netstandard2.1</TargetFrameworkForApp>
   </PropertyGroup>
 
   <PropertyGroup Label="Common">
