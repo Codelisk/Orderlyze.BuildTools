@@ -90,6 +90,7 @@
     <PackageReference Update="NUnit" Version="3.12.0" />
     <PackageReference Update="NUnit3TestAdapter" Version="3.15.1" />
     <PackageReference Update="Orderlyze.Foundation" Version="$(OrderlyzeFoundationVersion)" />
+    <PackageReference Update="Orderlyze.Helper" Version="$(OrderlyzeFoundationVersion)" />
     <PackageReference Update="Plugin.HybridWebView" Version="1.0.0.2-alpha" />
     <PackageReference Update="Polly" Version="8.0.0-alpha.8" />
     <PackageReference Update="Prism.Core" Version="$(PrismVersion)" />
