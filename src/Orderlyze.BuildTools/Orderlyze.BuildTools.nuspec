@@ -4,7 +4,7 @@
     <id>Orderlyze.BuildTools</id>
     <authors>Orderlyze.BuildTools</authors>
 	<description>Orderlyze.BuildTools</description>
-	<version>1.0.16</version>
+	<version>1.0.17</version>
     <repository type="git" />
   </metadata>
   <files>
