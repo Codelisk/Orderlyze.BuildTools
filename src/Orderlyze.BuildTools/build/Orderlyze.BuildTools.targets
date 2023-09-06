@@ -76,6 +76,7 @@
     <PackageReference Update="Microsoft.Extensions.Logging" Version="$(MicrosoftExtensionsVersion)" />
     <PackageReference Update="Microsoft.Extensions.Options.ConfigurationExtensions" Version="$(MicrosoftExtensionsVersion)" />
     <PackageReference Update="Microsoft.Extensions.Options" Version="$(MicrosoftExtensionsVersion)" />
+    <PackageReference Update="Microsoft.Extensions.Configuration.Json" Version="$(MicrosoftExtensionsVersion)"/>
     <PackageReference Update="Microsoft.NET.Test.Sdk" Version="16.9.4" />
     <PackageReference Update="Microsoft.OpenApi" Version="1.6.6" />
     <PackageReference Update="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All" />
@@ -93,6 +94,7 @@
     <PackageReference Update="Orderlyze.Helper" Version="$(OrderlyzeFoundationVersion)" />
     <PackageReference Update="Plugin.HybridWebView" Version="1.0.0.2-alpha" />
     <PackageReference Update="Polly" Version="8.0.0-alpha.8" />
+    <PackageReference Update="Portalum.Zvt" Version="3.3.0"  />
     <PackageReference Update="Prism.Core" Version="$(PrismVersion)" />
     <PackageReference Update="Prism.DryIoc.Forms" Version="$(PrismVersion)" />
     <PackageReference Update="Prism.DryIoc" Version="$(PrismVersion)" />
@@ -141,6 +143,7 @@
     <PackageReference Update="System.Runtime.CompilerServices.Unsafe" Version="7.0.0-preview.2.22152.2" />
     <PackageReference Update="System.ServiceModel.Http" Version="6.0.0" />
     <PackageReference Update="System.Threading.Tasks.Extensions" Version="4.5.4" />
+    <PackageReference Update="System.IO.Ports" Version="$(MicrosoftExtensionsVersion)"/>
     <PackageReference Update="Tynamix.ObjectFiller" Version="1.5.6" />
     <PackageReference Update="Udara.Plugin.XFSegmentedControl" Version="1.0.2" />
     <PackageReference Update="Unity.Container" Version="5.11.1" />
